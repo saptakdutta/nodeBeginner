@@ -1,0 +1,27 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "beginner node tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saptakdutta/nodeBeginner.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "duttas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saptakdutta/nodeBeginner/issues"
+  },
+  "homepage": "https://github.com/saptakdutta/nodeBeginner#readme",
+  "dependencies": {
+    "nodejs-polars": "^0.8.3"
+  }
+}
